@@ -1,5 +1,5 @@
 *** Settings ***
-Resource        automation_base.robot
+Resource        base/automation_base.robot
 Resource        Page Objects/automation_logwith.robot
 
 Test Setup      Sessão inicial

@@ -1,6 +1,6 @@
 *** Settings ***
 Resource        base/automation_base.robot
-Resource        Page Objects/automation_logwith.robot
+Resource        Page Objects/automation_logwithBase.robot
 
 Test Setup      Sessão inicial
 Test Teardown   Sessão final
